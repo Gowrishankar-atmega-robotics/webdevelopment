@@ -1,0 +1,19 @@
+body{
+    background: white
+}
+.ar{
+    font-weight: bolder;
+    span{
+        color:aqua;
+    }
+}
+.menu{
+    text-align: center;
+    
+    .home, .service{
+        color: black;
+        padding-right: 0ex;
+        text-decoration: none;
+        font-size: larger;
+    }
+}
